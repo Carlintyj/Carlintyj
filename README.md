@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Carlintyj
-- 🌱 I’m currently studying computer science in NUS. 
-- 🍎 On a journey to explore more about computer science!
+## Hi, I'm Carlin 👋
 
-Click [here](https://carlintan.netlify.app/) to learn more about me!
+🎓 Computer Science student at NUS (Graduating Dec 2025)  
+💻 Software Engineer (Full-Stack) — React, Node.js, Distributed Systems  
+🚀 Passionate about building scalable and reliable systems  
+
+### 🔧 Tech Stack
+- Frontend: React, Next.js, HTML, CSS  
+- Backend: Node.js, Express, REST APIs  
+- Infrastructure: Docker, CI/CD, Cloud Deployment  
+- Languages: JavaScript, Python, Java  
+
+### 🌟 Featured Projects
+- **PayTok** — Peer-to-peer payment platform for unbanked users  
+- **ChopeLB** — Library booking app using react native
+
+### 📈 What I care about
+- Building scalable systems  
+- Writing clean, maintainable code  
+- Improving user experience through engineering  
+
+
+Click [here](https://carlintan.com/) to learn more about me!
 
 ![Carlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlintyj&hide=stars,prs,issues&theme=dark)
 
