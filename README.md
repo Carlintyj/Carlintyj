@@ -1,6 +1,6 @@
 ## Hi, I'm Carlin 👋
 
-🎓 Computer Science student at NUS (Graduating Dec 2025)  
+🎓 Computer Science student at NUS (Graduated Dec 2025)  
 💻 Software Engineer (Full-Stack) — React, Node.js, Distributed Systems  
 🚀 Passionate about building scalable and reliable systems  
 
